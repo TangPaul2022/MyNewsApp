@@ -1,0 +1,28 @@
+/*{
+  "name": "CountryLive",
+  "displayName": "CountryLive"
+}
+*/
+
+{
+  "displayName": "MyNewsApp",
+  "expo": {
+    "name": "MyNewsApp",
+    "slug": "MyNewsApp",
+    "ios": {
+      "bundleIdentifier": "com.MyNewsApp"
+    },
+    "android": {
+      "package": "com.MyNewsApp"
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/[your-project-id]"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "[your-project-id]"
+      }
+    }
+  }
+}
